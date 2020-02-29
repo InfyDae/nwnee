@@ -20,13 +20,23 @@ Meant for a throwable that:
 
 ## Systems
 
-### Subdual PvP
+### [Subdual PvP](/Systems/Subdual_PvP)
 
-### Ressurect on Death
+Allows PCs and DMs to subdue PCs instead of killing them. If a subdued PC is attacked enough times, they will die as normal.
 
-### Item Name & Description Changers
+Subdued PCs can be healed to remove the effect or they can wait for it to finish.
 
-### Spot Looters
+### [Ressurect on Death](/Systems/Ressurect_on_Death)
+
+Allows an object to come back to life on death if it passes a Fortitude save based on the damage of the killing blow.
+
+### [Item Name & Description Changers](/Systems/Item_Name_Description_Changers)
+
+Allows a PC to change the name or description of a targeted item. Limited to their own inventory.
+
+### [Spot Looters](/Systems/Spot_Looters/tdn_evt_ondist.nss)
+
+Gives nearby PCs a chance to spot a character whenever they loot something from a container.
 
 ### [Disease on Trigger](/Systems/Disease_on_Trigger)
 
