@@ -26,6 +26,10 @@ Allows PCs and DMs to subdue PCs instead of killing them. If a subdued PC is att
 
 Subdued PCs can be healed to remove the effect or they can wait for it to finish.
 
+### [Colorize Emote Text](/Systems/Colorize_Emote_Text)
+
+Colorizes emotes by looking for the presence of asterisks in PC chat.
+
 ### [Ressurect on Death](/Systems/Ressurect_on_Death)
 
 Allows an object to come back to life on death if it passes a Fortitude save based on the damage of the killing blow.
