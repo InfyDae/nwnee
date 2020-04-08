@@ -26,6 +26,12 @@ Allows PCs and DMs to subdue PCs instead of killing them. If a subdued PC is att
 
 Subdued PCs can be healed to remove the effect or they can wait for it to finish.
 
+### [Troll Regeneration](/Systems/Troll_Regeneration)
+
+Prevents death to an object unless the appropriate damage type is included in the killing blow. For example: for trolls, acid or fire.
+
+Uses a NWNX module level event that fires on damage dealt. Caution should be used when adding events like this since they will fire often.
+
 ### [Colorize Emote Text](/Systems/Colorize_Emote_Text)
 
 Colorizes emotes by looking for the presence of asterisks in PC chat.
