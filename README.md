@@ -36,7 +36,7 @@ Uses a NWNX module level event that fires on damage dealt. Caution should be use
 
 Colorizes emotes by looking for the presence of asterisks in PC chat.
 
-### [Ressurect on Death](/Systems/Ressurect_on_Death)
+### [Resurrect on Death](/Systems/Resurrect_on_Death)
 
 Allows an object to come back to life on death if it passes a Fortitude save based on the damage of the killing blow.
 
