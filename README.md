@@ -26,7 +26,7 @@ Allows PCs and DMs to subdue PCs instead of killing them. If a subdued PC is att
 
 Subdued PCs can be healed to remove the effect or they can wait for it to finish.
 
-### [Troll Regeneration](/Systems/Troll_Regeneration)
+### [Troll Regeneration](/Systems/Troll_Regeneration_Prevent_Death/_mod_ondamage.nss)
 
 Prevents death to an object unless the appropriate damage type is included in the killing blow. For example: for trolls, acid or fire.
 
