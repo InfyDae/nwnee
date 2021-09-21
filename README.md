@@ -1,5 +1,5 @@
 # Neverwinter Nights: Enhanced Edition
-Scripts meant for us in NWN:EE. I started on this path thanks to Aschent, lead admin of the persistent world [The Dragon's Neck (TDN)](https://tdn.boards.net/).
+Scripts meant for us in NWN:EE. I started on this path thanks to Aschent, lead admin of the persistent world [The Dragon's Neck (TDN)](https://www.dragonsneck.com/).
 
 ## Systems
 
